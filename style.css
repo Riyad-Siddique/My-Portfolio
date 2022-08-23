@@ -1,0 +1,60 @@
+
+/* Navbar padding */
+
+.padding1{
+
+    padding: 30px 0px 0px 0px;
+    
+
+
+}
+
+.hov:hover{
+     
+    background-color: darkcyan;
+
+    border-radius: 5px;
+
+}
+span{
+
+    color: chartreuse;
+}
+.padding2{
+
+    padding: 170px 0px 0px 0px;
+}
+
+}
+.btn:hover {
+    background-color: rgb(24, 232, 17);
+    
+   
+  }
+
+  .shape{
+
+    height: 500px;
+    width: 500px;
+  }
+
+  .riyad{
+
+    height: 450px;
+    width: 450px;
+    margin: -491px 249px -63px -50px;
+  }
+
+  .riyad:hover{
+
+    transform: rotate(6deg);
+
+
+  }
+
+  .images:hover .riyad{
+
+    top: 20%;
+
+    
+}
